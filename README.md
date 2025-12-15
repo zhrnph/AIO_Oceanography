@@ -24,15 +24,15 @@ Berikut adalah tautan untuk mengakses kelengkapan tugas sesuai ketentuan:
 
 # 1. Laporan
 Analisis lengkap dan metode pengerjaan dapat dilihat pada dokumen berikut:
-[Klik Disini untuk Membaca Laporan (PDF)](docs/Nama_File_Laporanmu.pdf)
+[Klik Disini untuk Membaca Laporan (PDF)](TUBES_PDOK_KEL4/docs/Nama_File_Laporan.pdf)
 
 # 2. Presentasi (PPT)
 Slide presentasi pemaparan hasil:
-[Klik Disini untuk Melihat PPT](docs/Nama_File_PPTmu.pptx)
+[Klik Disini untuk Melihat PPT](TUBES_PDOK_KEL4/docs/AIO_OCEANOGRAPHY.pdf)
 
 # 3. Coding Raw
 Kode program asli dalam format Fortran (.f90):
-[Lihat Source Code (src/kelompok_4.f90)](src/kelompok_4.f90)
+[Lihat Source Code (src/kelompok_4.f90)](TUBES_PDOK_KEL4/src/Kelompok_4.f90)
 
 # 4. Video Pemaparan
 Video singkat (3-5 menit) mengenai demo program dan penjelasan hasil:
@@ -40,4 +40,4 @@ Video singkat (3-5 menit) mengenai demo program dan penjelasan hasil:
 
 # 5. File Executable
 Jika ingin mencoba program langsung tanpa compile ulang (Windows):
-[Download .EXE](bin/kelompok_4.exe)
+[Download .EXE](TUBES_PDOK_KEL4/bin/Kelompok_4.exe)
