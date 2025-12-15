@@ -24,7 +24,7 @@ Berikut adalah tautan untuk mengakses kelengkapan tugas sesuai ketentuan:
 
 # 1. Laporan
 Analisis lengkap dan metode pengerjaan dapat dilihat pada dokumen berikut:
-[Klik Disini untuk Membaca Laporan (PDF)](TUBES_PDOK_KEL4/docs/Nama_File_Laporan.pdf)
+[Laporan](TUBES_PDOK_KEL4/docs/Nama_File_Laporan.pdf)
 
 # 2. Presentasi (PPT)
 Slide presentasi pemaparan hasil:
