@@ -28,11 +28,11 @@ Analisis lengkap dan metode pengerjaan dapat dilihat pada dokumen berikut:
 
 # 2. Presentasi (PPT)
 Slide presentasi pemaparan hasil:
-[Klik Disini untuk Melihat PPT](TUBES_PDOK_KEL4/docs/AIO_OCEANOGRAPHY.pdf)
+[AIO_OCEANOGRAPHY.pdf](TUBES_PDOK_KEL4/docs/AIO_OCEANOGRAPHY.pdf)
 
 # 3. Coding Raw
 Kode program asli dalam format Fortran (.f90):
-[Lihat Source Code (src/kelompok_4.f90)](TUBES_PDOK_KEL4/src/Kelompok_4.f90)
+[Kelompok_4.f90)](TUBES_PDOK_KEL4/src/Kelompok_4.f90)
 
 # 4. Video Pemaparan
 Video singkat (3-5 menit) mengenai demo program dan penjelasan hasil:
@@ -40,4 +40,4 @@ Video singkat (3-5 menit) mengenai demo program dan penjelasan hasil:
 
 # 5. File Executable
 Jika ingin mencoba program langsung tanpa compile ulang (Windows):
-[Download .EXE](TUBES_PDOK_KEL4/bin/Kelompok_4.exe)
+[Kelompok_4.exe](TUBES_PDOK_KEL4/bin/Kelompok_4.exe)
