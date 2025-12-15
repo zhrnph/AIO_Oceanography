@@ -36,7 +36,7 @@ Kode program asli dalam format Fortran (.f90):
 
 # 4. Video Pemaparan
 Video singkat (3-5 menit) mengenai program dan penjelasan hasil:
-[Video Singkat](TUBES_PDOK_KEL4/docs/Video_Penjelasan_Kelompok_4)
+[Video Singkat](TUBES_PDOK_KEL4/docs/Video_Penjelasan_Kelompok_4_PDOK.mp4)
 
 # 5. File Executable
 Jika ingin mencoba program langsung tanpa compile ulang (Windows):
