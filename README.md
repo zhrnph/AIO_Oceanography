@@ -28,7 +28,7 @@ Analisis lengkap dan metode pengerjaan dapat dilihat pada dokumen berikut:
 
 # 2. Presentasi (PPT)
 Slide presentasi pemaparan hasil:
-[AIO_OCEANOGRAPHY.pdf](TUBES_PDOK_KEL4/docs/AIO_OCEANOGRAPHY.pdf)
+[AIO_OCEANOGRAPHY.pdf](TUBES_PDOK_KEL4/docs/Kelompok_4_PDOK.pdf)
 
 # 3. Coding Raw
 Kode program asli dalam format Fortran (.f90):
